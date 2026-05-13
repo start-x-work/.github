@@ -7,8 +7,8 @@ We are building the operating system for marketing decisions.
 
 - 📜 [manifesto](https://github.com/start-x-work/manifesto) — Why we open source / なぜオープンソース化するか
 - 🔍 [marketing-os-seo](https://github.com/start-x-work/marketing-os-seo) — AI-native SEO toolkit
-- 📊 marketing-os-ads — Coming Q1 2027
-- 💬 marketing-os-social — Coming Q2 2027
+- 📊 [marketing-os-ads](https://github.com/start-x-work/marketing-os-ads) — Coming Q1 2027
+- 💬 [marketing-os-social](https://github.com/start-x-work/marketing-os-social) — Coming Q2 2027
 
 ## Commercial Product / 商用プロダクト
 
