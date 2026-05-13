@@ -18,6 +18,8 @@ Use GitHub's [Private Vulnerability Reporting](https://docs.github.com/en/code-s
 2. Click the **Security** tab
 3. Click **Report a vulnerability**
 
+（本 Organization の各リポジトリでは Private vulnerability reporting を有効化済みです。）
+
 ### Alternative: Email / メール報告
 
 Email: takehiro.yamaguchi@start-x.work
