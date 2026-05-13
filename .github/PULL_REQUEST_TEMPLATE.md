@@ -1,0 +1,27 @@
+## Summary / 概要
+
+<!-- Brief description of what this PR does / このPRが何をするかの概要 -->
+
+## Type of Change / 変更の種類
+
+- [ ] Bug fix / バグ修正
+- [ ] New feature / 新機能
+- [ ] Breaking change / 破壊的変更
+- [ ] Documentation / ドキュメント
+- [ ] Refactor / リファクタリング
+- [ ] Other / その他:
+
+## Related Issues / 関連Issue
+
+<!-- e.g., Closes #123 -->
+
+## Testing / テスト
+
+<!-- How was this tested? / どのようにテストしましたか? -->
+
+## Checklist / チェックリスト
+
+- [ ] My code follows the project style guide / スタイルガイドに従っている
+- [ ] I have added tests where applicable / 必要なテストを追加した
+- [ ] I have updated documentation / ドキュメントを更新した
+- [ ] I agree to license my contribution under Apache 2.0 / Apache 2.0 でライセンスすることに同意する

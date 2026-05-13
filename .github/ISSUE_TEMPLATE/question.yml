@@ -1,0 +1,20 @@
+name: ❓ Question / 質問
+description: Ask a question / 質問する
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        💡 For general discussions, please use [Discussions](https://github.com/orgs/start-x-work/discussions) instead.
+        💡 一般的な議論は [Discussions](https://github.com/orgs/start-x-work/discussions) をご利用ください。
+  - type: textarea
+    id: question
+    attributes:
+      label: Question / 質問内容
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context / 背景
+      description: What are you trying to achieve? / 何を達成しようとしていますか?

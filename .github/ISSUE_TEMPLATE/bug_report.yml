@@ -1,0 +1,48 @@
+name: 🐛 Bug Report / 不具合報告
+description: Report a bug / 不具合を報告
+labels: ["bug", "needs-triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description / 説明
+      description: What happened? / 何が起きましたか?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce / 再現手順
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior / 期待される動作
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior / 実際の動作
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version / バージョン
+      placeholder: e.g., 0.1.0
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment / 環境
+      placeholder: |
+        - OS:
+        - Node.js version:
+        - Other relevant info:

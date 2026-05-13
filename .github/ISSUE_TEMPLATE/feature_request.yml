@@ -1,0 +1,25 @@
+name: ✨ Feature Request / 機能要望
+description: Suggest a new feature / 新機能を提案
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / 解決したい課題
+      description: What problem does this feature solve? / この機能はどんな課題を解決しますか?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution / 提案する解決策
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered / 検討した代替案
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context / 補足情報
