@@ -20,15 +20,15 @@ We are building the operating system for marketing decisions.
 | 📊 [marketing-os-ads](https://github.com/start-x-work/marketing-os-ads) | 広告コピー・運用の支援 | `npx @start-x-work/mos-ads` |
 | 💬 [marketing-os-social](https://github.com/start-x-work/marketing-os-social) | SNS 運用の支援 | `npx @start-x-work/mos-social` |
 | 🧰 [mos-kit](https://github.com/start-x-work/mos-kit) | 上記が共有する共通基盤ライブラリ | `@start-x-work/mos-kit` |
+| 🎨 [mos-creative](https://github.com/start-x-work/mos-creative) | クリエイティブ制作支援（ブリーフ→生成→表現ガード→人の承認証跡）。ローカルファースト・下書き優先（v0.1） | `@start-x-work/mos-creative` |
 
 ### 新規公開 / Newly released
 
 | Repo | 内容 / What | 使い方 |
 |---|---|---|
 | 🎬 [mos-video](https://github.com/start-x-work/mos-video) | **手渡し0円パイプライン**。企画・台本・画像は人が手渡し、検証・音声・字幕・演出・全SNSサイズ書き出し・納品をローカルで自動処理。**自動投稿はしない**（Python / v1.0） | `pip install -e .`（[README](https://github.com/start-x-work/mos-video)） |
-| 🎨 [mos-creative](https://github.com/start-x-work/mos-creative) | クリエイティブ制作支援（ブリーフ→生成→表現ガード→人の承認証跡）。ローカルファースト・下書き優先（v0.1・コード公開／npm 準備中） | ソース公開中 |
 
-> 補足: SEO / Ads / Social は npm から今すぐ使えます。以前の README にあった「Coming 2027」は公開済みに更新しました。
+> 補足: SEO / Ads / Social / creative と共通基盤 kit は npm から今すぐ使えます。以前の README にあった「Coming 2027」は公開済みに更新しました。
 
 ---
 
